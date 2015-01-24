@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CheckCompAvail.iml" filepath="$PROJECT_DIR$/CheckCompAvail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComputerAvailCheck-Android.iml" filepath="$PROJECT_DIR$/ComputerAvailCheck-Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
