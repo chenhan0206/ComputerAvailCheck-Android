@@ -215,11 +215,11 @@ public class RoomActivity extends Activity {
 
             ImageView imageView = (ImageView) headerView.findViewById(R.id.imageView);
             if (position >= 0 && position < size) {
-                imageView.setImageResource(R.drawable.systems_windows_8_icon_128);
+                //imageView.setImageResource(R.drawable.systems_windows_8_icon_128);
             } else if (position >= size && position < size * 2) {
-                imageView.setImageResource(R.drawable.systems_mac_os_128);
+                //imageView.setImageResource(R.drawable.systems_mac_os_128);
             } else {
-                imageView.setImageResource(R.drawable.systems_linux_icon_128);
+                //imageView.setImageResource(R.drawable.systems_linux_icon_128);
             }
 
             return headerView;
